@@ -4,7 +4,7 @@ Email: turanye6132@my.uwstout.edu
 
 LinkedIn: [Link](https://www.linkedin.com/in/elijah-t-1500672a2/)
 
-Resume: [Link](Resume/ResumeFall2024.pdf)
+Resume: [Link](Media/Resume/ResumeFall2024.pdf)
 
 ## Microprocessor Lockbox
 * I created this project as my final for my Microprocessor System Design final project.
