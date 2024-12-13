@@ -6,6 +6,8 @@ LinkedIn: [Link](https://www.linkedin.com/in/elijah-t-1500672a2/)
 
 Resume: [Link](Media/Resume/ResumeFall2024.pdf)
 
+[TOC]
+
 ## Microprocessor Lockbox
 * I created this project as my final for my Microprocessor System Design final project.
 * I built the lockbox utilizing an STM32 microprocessor, keypad, potentiometer, and LCD screen
