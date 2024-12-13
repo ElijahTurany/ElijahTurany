@@ -6,8 +6,6 @@ LinkedIn: [Link](https://www.linkedin.com/in/elijah-t-1500672a2/)
 
 Resume: [Link](Media/Resume/ResumeFall2024.pdf)
 
-[TOC]
-
 ## Microprocessor Lockbox
 * I created this project as my final for my Microprocessor System Design final project.
 * I built the lockbox utilizing an STM32 microprocessor, keypad, potentiometer, and LCD screen
@@ -32,14 +30,6 @@ Code: [Link](https://github.com/ElijahTurany/MicroprocessorCode/tree/main/FinalL
 * Increasing proficiency with Python, Python libraries, and SQL databases
 
 Code: [Link](https://github.com/ElijahTurany/ExpenseTracker)
-
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>Testing something</mark>
 
 
 
